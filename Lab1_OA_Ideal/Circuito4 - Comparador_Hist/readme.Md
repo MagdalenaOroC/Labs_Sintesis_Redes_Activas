@@ -1,5 +1,4 @@
 # 🔍 Comparador con Histéresis – LM324  
-Circuito Nº4 – Electrónica Analógica / SRA
 
 Este carpeta contiene el circuito y las simulaciones correspondientes a un **comparador con histéresis** implementado con un amplificador operacional LM324.
 
