@@ -1,25 +1,36 @@
-# 🔍 Comparador con Histéresis – LM324  
+# 🔧 Circuito 4 – Comparador con Histéresis (Schmitt Trigger)
 
-Este carpeta contiene el circuito y las simulaciones correspondientes a un **comparador con histéresis** implementado con un amplificador operacional LM324.
-
----
-
-## 📝 Descripción general
-
-Un comparador con histéresis (o **Schmitt Trigger no inversor**) es un circuito que compara una señal de entrada `Vi` contra dos umbrales distintos:
-
-- **V<sub>TH</sub>** — Umbral superior  
-- **V<sub>TL</sub>** — Umbral inferior  
-
-La salida `Vout` conmuta entre los niveles de saturación del operacional (**V+** y **V−**) dependiendo de si la entrada supera o cae por debajo de esos umbrales.
-
-La **histeresis** proporciona una región donde la salida no cambia, incluso si la entrada está dentro de ese rango. Esto evita oscilaciones y ruido cuando la señal cruza lentamente el punto de comparación.
+## 📌 Descripción
+El comparador con histéresis utiliza realimentación positiva para generar dos niveles de conmutación diferentes: uno para subir y otro para bajar.
 
 ---
 
-## 🎯 Objetivo del circuito
+## 🧠 Conceptos principales
+- Histéresis → evita oscilaciones, ruido y señales inestables
+- Umbrales:
+  \[
+  V_{TH},\; V_{TL}
+  \]
+- Salida digital, entrada analógica
 
-- Obtener una salida digital (alto/bajo) a partir de una señal analógica.  
-- Evitar falsas conmutaciones debidas al ruido.  
-- Definir dos niveles de disparo bien separados.  
-- Convertir señales senoidales o ruidosas en ondas cuadradas limpias.
+---
+
+## 🧪 Simulaciones realizadas
+- Transitorio con señales:
+  - Cuadrada  
+  - Senoidal  
+  - Triangular  
+- Barrido DC para obtener la curva Vo=f(Vi)  
+- Determinación de umbrales
+
+---
+
+## 📊 Resultados
+- La salida se comporta como un disparador limpio  
+- La curva de histéresis coincide con el diseño teórico
+
+---
+
+## 📁 Archivos
+- `Comp_Hist.asc`  
+- `circ4.ipynb`
