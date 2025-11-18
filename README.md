@@ -1,5 +1,17 @@
 # 📚 Repositorio de Laboratorios – Síntesis de Redes Activas
 
+## 📚 Créditos
+
+Trabajo desarrollado en el marco de la materia:
+
+> **Síntesis de Redes Activas – Ingeniería Electrónica**  
+> FCEFyN – Universidad Nacional de Córdoba  
+
+Autores: **Diaz Mateo** , **di Pasquo Franco** , **Oro Castro Magdalena**  
+Año académico: **2025**
+
+---
+
 ## 🧪 Laboratorios incluidos
 
 ### 🔬 **Laboratorio 1 – Amplificadores y Circuitos Analógicos Básicos**
@@ -47,15 +59,5 @@ Cada laboratorio cuenta con su propia carpeta, que incluye:
 - Mediciones experimentales (si aplica).
 ---
 
-## 📚 Créditos
 
-Trabajo desarrollado en el marco de la materia:
-
-> **Síntesis de Redes Activas – Ingeniería Electrónica**  
-> FCEFyN – Universidad Nacional de Córdoba  
-
-Autores: **Diaz Mateo** , **di Pasquo Franco** , **Oro Castro Magdalena**  
-Año académico: **2025**
-
----
 
