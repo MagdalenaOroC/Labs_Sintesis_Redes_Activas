@@ -1,0 +1,108 @@
+Circuit: * C:\users\mateod\My Documents\Labs_Sintesis_Redes_Activas\Lab1_OA_Ideal\Circuito5 - Adicional\Relax_Osc.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+vernier = 0.25
+Gmin = 8.55108e-006
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 3.6295e-006
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 9.64496e-007
+vernier = 0.395061
+vernier = 0.197531
+vernier = 0.0987653
+vernier = 0.0493827
+vernier = 0.0246913
+Gmin = 9.41045e-007
+vernier = 0.0329218
+vernier = 0.0438957
+Gmin = 8.61706e-007
+vernier = 0.0585276
+vernier = 0.0780367
+Gmin = 7.49716e-007
+vernier = 0.0390184
+vernier = 0.0195092
+vernier = 0.00975459
+Gmin = 7.10846e-007
+vernier = 0.0048773
+vernier = 0.00243865
+vernier = 0.00121932
+vernier = 0.000609662
+Gmin = 7.10305e-007
+vernier = 0.000812882
+vernier = 0.00108384
+Gmin = 7.08671e-007
+vernier = 0.00144512
+vernier = 0.00192683
+Gmin = 7.06073e-007
+vernier = 0.00256911
+Gmin = 7.02005e-007
+vernier = 0.00342548
+vernier = 0.0045673
+Gmin = 6.95228e-007
+vernier = 0.00608973
+vernier = 0.00811964
+Gmin = 6.84558e-007
+vernier = 0.0108262
+Gmin = 6.68105e-007
+vernier = 0.0144349
+vernier = 0.0192465
+Gmin = 6.41386e-007
+vernier = 0.025662
+vernier = 0.0342161
+Gmin = 6.01018e-007
+vernier = 0.0456214
+Gmin = 5.42675e-007
+vernier = 0.0608285
+vernier = 0.0811047
+Gmin = 4.57447e-007
+vernier = 0.10814
+vernier = 0.144186
+Gmin = 3.48847e-007
+vernier = 0.192248
+Gmin = 2.28453e-007
+vernier = 0.25633
+vernier = 0.341774
+Gmin = 1.13375e-007
+vernier = 0.455698
+vernier = 0.607598
+Gmin = 3.7961e-008
+vernier = 0.81013
+Gmin = 7.13014e-009
+vernier = 1
+Gmin = 7.65593e-010
+Gmin = 8.22049e-011
+Gmin = 8.82669e-012
+Gmin = 9.47758e-013
+Gmin = 1.01765e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Tue Nov 18 11:06:47 2025
+Total elapsed time: 0.795 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 71849
+traniter = 69317
+tranpoints = 20652
+accept = 13860
+rejected = 6792
+matrix size = 27
+fillins = 30
+solver = Normal
+Matrix Compiler1: 3.51 KB object code size  0.7/0.8/[0.3]
+Matrix Compiler2: 3.13 KB object code size  0.5/0.5/[0.4]
+
