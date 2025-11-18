@@ -1,7 +1,5 @@
 # 📚 Repositorio de Laboratorios – Síntesis de Redes Activas
 
-## 📚 Créditos
-
 Trabajo desarrollado en el marco de la materia:
 
 > **Síntesis de Redes Activas – Ingeniería Electrónica**  
